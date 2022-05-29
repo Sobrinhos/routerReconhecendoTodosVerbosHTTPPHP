@@ -1,0 +1,10 @@
+{
+    "name": "youtube/api",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Youtube\\Api\\": "src/"
+        }
+    },
+    "require": {}
+}

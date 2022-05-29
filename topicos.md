@@ -1,0 +1,8 @@
+- Introdução
+- Pasta
+- Criação do index.php
+- Mostrar como identificar o method da requisição
+- Mostrar a forma simples de tratar um method que não seja GET nem POST - $_SERVER['REQUEST_METHOD']
+- Mostrar como criar uma classe Router
+  - addNewRoute - array_push(rotas, arrayDaRota)
+  - getRequestRoute $_SERVER['REQUEST_URI'] ou $_GET['url']
